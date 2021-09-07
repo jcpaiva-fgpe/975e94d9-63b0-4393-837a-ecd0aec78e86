@@ -1,2 +1,2 @@
-// This is a variable
+// It is something
 let variable = 1;
