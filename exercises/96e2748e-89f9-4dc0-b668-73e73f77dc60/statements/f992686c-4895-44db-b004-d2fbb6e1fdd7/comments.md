@@ -2,15 +2,15 @@ Comments are an amazing way to leave some notes to yourself or other programmers
 
 There are two basic ways to add comments in JavaScript:
 
-- Ignore the current line using double slash <code>//</code>.
+- Ignore the current line using double slash <code>//</code>.\n
 <code>// This is a comment</code>
 
 
 - Add a multi-line comment beginning with <code>/*</code> and ending with <code>*/</code>
 <code>
-    /* This is
-    a multi-line
-    comment */
+    /* This is\n
+    a multi-line\n
+    comment */\n
 </code>
 
-Try to change the comment to "This a variable".
+Try to change the comment to "This is a variable".
