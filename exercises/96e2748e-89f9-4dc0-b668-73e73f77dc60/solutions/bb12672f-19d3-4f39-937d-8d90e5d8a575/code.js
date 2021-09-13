@@ -1,4 +1,6 @@
-console.log("Hello!");
+function main() {
+    console.log("Hello!");
 
-console.log("JavaScript is awesome!");
-console.log("Yes it is!");
+    console.log("JavaScript is awesome!");
+    console.log("Yes it is!");
+}
