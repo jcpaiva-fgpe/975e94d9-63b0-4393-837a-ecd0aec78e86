@@ -1,1 +1,3 @@
-var myVariable = 2;
+var myNumber = 100;
+
+console.log(myNumber + "!");
