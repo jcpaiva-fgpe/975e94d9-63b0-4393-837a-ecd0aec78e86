@@ -1,15 +1,15 @@
 JavaScript allows to use variables in order to store values of any type.
 
-In order to creating a variable in JavaScript, we need to put a special keyword in front of it - var. There are two more keywords to store variables, but we will learn about them later in this course.
+In order to create a variable in JavaScript, we need to put a special keyword in front of it - _var_. There are two more keywords to store variables _let_ and _const_, but we will learn about them later in this course.
 
 `var ourAmazingName;`
 
 Take a look at the name of the variable - ourAmazingName. This is the JavaScript variable naming convention, very popular also among other programming languages. This naming convention is called camel case.
 
-ourAmazingName variable is empty. To ensure it is storing anything we need to set its value.
+_ourAmazingName_ variable is empty. To ensure it is storing anything we need to set its value.
 
 `var ourAmazingName = 1;`
 
-This way ourAmazingName variable stores a value of 1.
+This way _ourAmazingName_ variable stores a value of 1.
 
-Try to change the name of the existing variable to make the code work.
+Change the code to ensure that the variable _myNumber_ stores a value of 100.
