@@ -1,3 +1,3 @@
-var crazyVariable = "I'm crazy!";
+var myNumber = 0;
 
-console.log(crazyVariable);
+console.log("Keep it a " + myNumber + "!");
