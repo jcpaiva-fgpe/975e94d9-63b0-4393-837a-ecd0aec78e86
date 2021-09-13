@@ -12,4 +12,4 @@ ourAmazingName variable is empty. To ensure it is storing anything we need to se
 
 This way ourAmazingName variable stores a value of 1.
 
-Try to create a variable _myVariable_ which will store a value of 2. Look at the _ourAmazingName_ example above if you get stuck.
+Try to change the name of the existing variable to make the code work.
