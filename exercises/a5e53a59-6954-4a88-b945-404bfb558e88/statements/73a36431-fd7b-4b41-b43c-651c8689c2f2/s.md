@@ -11,7 +11,7 @@ If you haven't solve yet the previous exercises, here's a small example to print
 console.log('Hello!');
 ```
 
-Use the _console.log()_ method to print the value of the variable a. Please, don't change the rest of the code.
+Use the _console.log()_ method to print the value of the variable _second_. Please, don't change the rest of the code.
 
 
 _PS You can notice that the console is also available in Developer tools in your Chrome's menu or Web Console in Firefox's menu. You can check it later._
