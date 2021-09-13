@@ -16,4 +16,4 @@ comment */
 ```   
    
    \
-Remove all comments in existing code to make it work.
+Convert all comments to normal code to make the program work.
