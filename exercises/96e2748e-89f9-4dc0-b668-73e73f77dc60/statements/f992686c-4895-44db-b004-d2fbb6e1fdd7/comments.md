@@ -16,4 +16,4 @@ comment */
 ```   
    
    \
-Try to change the comment to "This is a variable".
+Remove all comments in existing code to make it work.
