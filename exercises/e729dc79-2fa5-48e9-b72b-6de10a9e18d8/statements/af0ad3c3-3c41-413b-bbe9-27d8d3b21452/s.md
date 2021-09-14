@@ -11,3 +11,5 @@ console.log(bigString);
 \
 There are some variables already available in the code, connect them to print this message:
 `I come first. I come second.`
+\
+Don't forget the space between!
