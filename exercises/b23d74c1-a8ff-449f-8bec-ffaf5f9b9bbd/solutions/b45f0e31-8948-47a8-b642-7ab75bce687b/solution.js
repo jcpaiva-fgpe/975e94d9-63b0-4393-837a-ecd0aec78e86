@@ -1,3 +1,5 @@
-var myNumber = 100;
+function main() {
+    var myNumber = 100;
 
-console.log(myNumber + "!");
+    console.log(myNumber + "!");
+}
