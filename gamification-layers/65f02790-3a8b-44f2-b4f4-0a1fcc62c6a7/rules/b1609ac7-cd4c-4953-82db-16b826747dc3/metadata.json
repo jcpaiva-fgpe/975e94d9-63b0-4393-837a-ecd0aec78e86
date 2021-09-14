@@ -1,1 +1,1 @@
-{"id":"b1609ac7-cd4c-4953-82db-16b826747dc3","name":"Get reward","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["0ba4d7a8-7455-4142-8c71-8ccfe7ae378e"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":[]}]}
+{"id":"b1609ac7-cd4c-4953-82db-16b826747dc3","name":"Get first reward - basic JS","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["0ba4d7a8-7455-4142-8c71-8ccfe7ae378e"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":[]}]}
