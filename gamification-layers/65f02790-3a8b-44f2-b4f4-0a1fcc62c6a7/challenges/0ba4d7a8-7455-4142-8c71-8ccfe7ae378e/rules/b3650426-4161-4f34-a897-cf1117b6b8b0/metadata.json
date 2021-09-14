@@ -1,0 +1,1 @@
+{"id":"b3650426-4161-4f34-a897-cf1117b6b8b0","name":"Unlock reward","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["0ba4d7a8-7455-4142-8c71-8ccfe7ae378e"]}],"criteria":{},"actions":[]}
