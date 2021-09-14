@@ -1,1 +1,3 @@
-print(2 ** 2)
+function main() {
+    console.log(2 ** 2);
+}
