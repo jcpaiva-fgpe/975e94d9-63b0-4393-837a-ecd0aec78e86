@@ -37,4 +37,4 @@ console.log(new); // undefined
 ```
 Thanks to this keyword we can a lot easier predict the behavior of our variables.
 \
-Try to fix the code below by changing the _var_ keyword to _let_.
+Try to fix the code below by changing the _var_ keyword to _let_. The expected behavior is to see the "Hello!" message only once, not twice.
