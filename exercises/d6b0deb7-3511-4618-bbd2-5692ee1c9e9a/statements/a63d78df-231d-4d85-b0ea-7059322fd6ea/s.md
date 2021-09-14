@@ -1,0 +1,1 @@
+Calculate the sum of one thousandth and four hundredths. Write both values in scientific notation (mantissa pattern).
