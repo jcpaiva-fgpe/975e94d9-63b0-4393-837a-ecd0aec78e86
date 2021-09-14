@@ -1,1 +1,3 @@
-print(7 ** 0.5)
+function main() {
+    console.log(7 ** 0.5);
+}
