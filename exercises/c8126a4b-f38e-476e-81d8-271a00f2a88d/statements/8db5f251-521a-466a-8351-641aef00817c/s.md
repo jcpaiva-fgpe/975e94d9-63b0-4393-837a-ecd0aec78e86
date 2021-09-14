@@ -18,3 +18,6 @@ console.log(PI);
 \
 Now that _let_ and _const_ are here to stay, and you understand their concepts, I’d suggest avoid using _var_ at all.
 Thanks to using only _let_ and _const_ your code will be cleaner and more elegant.
+\
+\
+Change the code to use _const_ keyword instead of _var_ to make sure the program logs a message if someone tries to change the variable.
