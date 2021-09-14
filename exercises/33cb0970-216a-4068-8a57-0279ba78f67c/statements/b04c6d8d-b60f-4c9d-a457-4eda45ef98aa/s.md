@@ -1,0 +1,1 @@
+Calculate the arithmetic mean of 2 and 7.
