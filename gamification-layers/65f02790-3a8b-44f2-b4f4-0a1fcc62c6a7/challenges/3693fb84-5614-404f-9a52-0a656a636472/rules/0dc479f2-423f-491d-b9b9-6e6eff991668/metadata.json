@@ -1,0 +1,1 @@
+{"id":"0dc479f2-423f-491d-b9b9-6e6eff991668","name":"Unlock Strings Challenge","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["3693fb84-5614-404f-9a52-0a656a636472"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","c6b32c19-6e28-477a-a6ac-23c95ec91a45","state","OPENED"]}]}
