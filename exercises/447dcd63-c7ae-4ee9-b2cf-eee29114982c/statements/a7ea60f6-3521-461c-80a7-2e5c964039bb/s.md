@@ -1,0 +1,1 @@
+Calculate the result of 5 * 3 - 2.
