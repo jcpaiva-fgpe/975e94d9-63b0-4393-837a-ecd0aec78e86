@@ -1,1 +1,3 @@
-console.log(5 * 3 - 2);
+function main() {
+    console.log(5 * 3 - 2);
+}
