@@ -1,0 +1,1 @@
+{"id":"a77880e1-4249-4b06-8012-49561c0050ac","name":"Unlock Conditionals","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["c6b32c19-6e28-477a-a6ac-23c95ec91a45"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","e2e990ec-cff6-4567-96bb-5d1e2012c224","state","OPENED"]}]}
