@@ -1,0 +1,1 @@
+{"id":"8485391b-a343-49df-b65b-350427c91a4c","name":"Give Astronaut reward","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":["300dab02-f39f-40a9-bc56-9233d703fb2a"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["REWARD","ca84c80c-3786-466d-af3f-f3645b366b84"]}]}
