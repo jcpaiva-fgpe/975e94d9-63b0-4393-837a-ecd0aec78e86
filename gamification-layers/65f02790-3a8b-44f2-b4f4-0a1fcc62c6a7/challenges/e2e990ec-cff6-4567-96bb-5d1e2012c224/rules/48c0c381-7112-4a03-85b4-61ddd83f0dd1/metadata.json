@@ -1,0 +1,1 @@
+{"id":"48c0c381-7112-4a03-85b4-61ddd83f0dd1","name":"Unlocks Loops","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["e2e990ec-cff6-4567-96bb-5d1e2012c224"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","75d59ff7-09e7-4a5d-969f-9e8f11cd8e9f","state","OPENED"]}]}
