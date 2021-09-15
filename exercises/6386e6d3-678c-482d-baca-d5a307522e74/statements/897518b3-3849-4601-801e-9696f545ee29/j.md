@@ -20,7 +20,6 @@ function main() {
 
 >>> Your number 12 is bigger than 10.
 ```
-
 \
 In the program below add a condition, that checks if the value of the variable age is less than 18. In that case _child_ should be displayed.
 \
