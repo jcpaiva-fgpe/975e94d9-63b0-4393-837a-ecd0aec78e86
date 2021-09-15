@@ -1,0 +1,5 @@
+Enter the secret lunch code:
+That is not good.
+That is not good.
+That is not good.
+Maximum number of login attempts has been reached.
