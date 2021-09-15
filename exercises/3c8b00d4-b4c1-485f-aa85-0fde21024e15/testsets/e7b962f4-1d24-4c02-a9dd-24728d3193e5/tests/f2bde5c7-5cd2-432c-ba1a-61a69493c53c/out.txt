@@ -1,0 +1,3 @@
+Enter the secret lunch code:
+That is not good.
+That is a good one!
