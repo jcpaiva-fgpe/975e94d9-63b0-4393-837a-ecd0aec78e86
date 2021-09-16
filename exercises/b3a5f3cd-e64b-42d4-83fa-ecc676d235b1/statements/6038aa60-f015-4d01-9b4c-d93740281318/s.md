@@ -10,4 +10,4 @@ myArray.push(4);
 console.log(myArray[myArray.length - 1]);
 >>> 4
 ```
-Try to push `[5, 6]` onto the end of `myArray`.
+Try to push `["Hi", "Bye"]` onto the end of `myArray`.
