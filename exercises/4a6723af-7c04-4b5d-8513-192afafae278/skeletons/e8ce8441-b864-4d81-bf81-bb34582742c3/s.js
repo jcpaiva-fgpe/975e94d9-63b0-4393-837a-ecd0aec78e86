@@ -4,5 +4,5 @@ function main() {
 
 
     // Only change code above this line
-    console.log(myArray[0]);
+    console.log(myArray[1]);
 }
