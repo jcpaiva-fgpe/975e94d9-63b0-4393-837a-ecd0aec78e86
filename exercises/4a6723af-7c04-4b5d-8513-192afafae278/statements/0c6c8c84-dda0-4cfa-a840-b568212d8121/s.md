@@ -10,4 +10,4 @@ console.log(coolArray[0]);
 ```
 ourArray now has the value `[15, 2, 3]`.
 \
-Try to modify the existing _myArray_ variable by changing its first index to a value of 15.
+Try to modify the existing _myArray_ variable by changing the data stored at index `1` to a value of 15.
