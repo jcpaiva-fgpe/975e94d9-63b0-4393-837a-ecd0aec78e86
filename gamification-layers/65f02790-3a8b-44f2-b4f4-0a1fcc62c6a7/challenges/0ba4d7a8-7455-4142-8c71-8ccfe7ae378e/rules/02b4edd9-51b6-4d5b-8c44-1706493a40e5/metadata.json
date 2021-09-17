@@ -1,0 +1,1 @@
+{"id":"02b4edd9-51b6-4d5b-8c44-1706493a40e5","name":"Unlock Arrays","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["0ba4d7a8-7455-4142-8c71-8ccfe7ae378e"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","b154f6b1-6d7d-4f42-8fb6-74f74277512c","state","OPENED"]}]}
