@@ -5,5 +5,5 @@ function main() {
     let removedElement;
 
     // Change code above this line
-    console.log(removedElement);
+    console.log(removedElement.toString());
 }
