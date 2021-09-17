@@ -5,5 +5,5 @@ function main() {
     let removedElement = myArray.pop();
 
     // Change code above this line
-    console.log(removedElement);
+    console.log(removedElement.toString());
 }
