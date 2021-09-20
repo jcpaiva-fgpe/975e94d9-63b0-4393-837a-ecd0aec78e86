@@ -6,5 +6,5 @@ function main() {
     // Only change code above this line
     };
 
-    console.log(Object.keys(myDog));
+    console.log(Object.keys(myDog).toString());
 }
