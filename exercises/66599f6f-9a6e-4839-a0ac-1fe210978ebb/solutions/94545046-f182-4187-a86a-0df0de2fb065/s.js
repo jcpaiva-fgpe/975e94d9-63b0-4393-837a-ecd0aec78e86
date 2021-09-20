@@ -1,9 +1,11 @@
 function main() {
     let amazingObj = {
         "huge number": 1000000,
-        "small number": 10
+        "my numbers": {
+            "small": 10
+        }
     }
 
     console.log(amazingObj["huge number"]);
-    console.log(amazingObj["small number"]);
+    console.log(amazingObj["my numbers"]["small"]);
 }
