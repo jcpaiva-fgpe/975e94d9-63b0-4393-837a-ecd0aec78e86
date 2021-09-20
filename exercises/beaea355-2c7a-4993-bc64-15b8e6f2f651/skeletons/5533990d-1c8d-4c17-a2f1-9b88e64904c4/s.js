@@ -2,5 +2,5 @@ function main() {
     let myShoppingList;
 
     // Please change code above this line;
-    console.log(myShoppingList.toString());
+    myShoppingList.forEach((item) => console.log(item.toString()));
 }
