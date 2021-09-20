@@ -20,6 +20,6 @@ let car = {
     name: "Focus"
 }
 ```
-Make an object which represents a cat called _myCat_ that contains the properties name (a string) such as legs, tails and friends.
+Make an object which represents a cat called _myCat_ that contains these properties: _legs_, _tails_ and _friends_.
 
 
