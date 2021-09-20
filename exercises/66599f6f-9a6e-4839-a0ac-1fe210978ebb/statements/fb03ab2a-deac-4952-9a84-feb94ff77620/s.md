@@ -31,4 +31,4 @@ for(let i = 0; i < objectProperties.length; i++) {
 >>> 3
 ```
 \
-Try the bracket notation, print the numeric values of _amazingObj_.
+Try the bracket notation, print the numeric values of _amazingObj_. One console.log() for each value.
