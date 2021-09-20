@@ -24,4 +24,4 @@ console.log(myObject["prop2"]);
 >>> 2
 ```
 \
-Print all property values of _amazingObject_ - one console log for each property value. 
+Print all property numeric values of _amazingObject_ - one console log for each property value. 
