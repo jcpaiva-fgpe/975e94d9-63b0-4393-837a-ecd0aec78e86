@@ -5,6 +5,8 @@ function main() {
         isAmazing: true,
         isAwful: false
     }
+    // Change code below this line
+    
 
     // Change code above this line
     console.log(myObject.isCool);
