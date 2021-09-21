@@ -15,6 +15,6 @@ console.log(myObject.hasOwnProperty("min"));
 \
 Write a program that will print this message when object does not have a specific property:
 \
-_This object does not have a property named **name**_ (change _name_ to the name of the missing property).
+_This object does not have a property named nameOfTheProperty_ (change _nameOfTheProperty__ to the name of the missing property).
 \
 If the object has a property just print its value.
