@@ -17,4 +17,4 @@ Write a program that will print this message when object does not have a specifi
 \
 _This object does not have a property named nameOfTheProperty_ (change _nameOfTheProperty__ to the name of the missing property).
 \
-If the object has a property just print its value.
+If the object has a property just print its value. You can test your code using inputs.
