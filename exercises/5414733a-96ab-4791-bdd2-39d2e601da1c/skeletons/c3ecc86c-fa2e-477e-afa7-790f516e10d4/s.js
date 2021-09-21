@@ -8,5 +8,5 @@ function main() {
 
 
     // Change code above this line
-    console.log(test);
+    console.log(test.max);
 }
