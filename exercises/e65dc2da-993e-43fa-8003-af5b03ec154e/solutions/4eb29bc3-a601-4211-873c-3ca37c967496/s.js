@@ -12,5 +12,5 @@ function main() {
 
     // Change code above this line
     console.log(Object.keys(myObject).length < 2);
-    console.log(Object.keys(myObject).forEach((key) => key == 'isCool' && console.log('true')));
+    console.log(Object.keys(myObject).forEach((key) => key == 'isCool' && console.log(true)));
 }
