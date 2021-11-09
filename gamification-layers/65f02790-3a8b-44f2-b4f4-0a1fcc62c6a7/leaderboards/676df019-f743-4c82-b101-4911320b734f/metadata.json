@@ -1,0 +1,1 @@
+{"id":"676df019-f743-4c82-b101-4911320b734f","name":"Global Ranking (Most Exercises and Smallest Solutions)","groups":false,"metrics":["$.player.points","$.latestSubmissions.[?(@.result=='ACCEPT')].metrics.programSize"],"sorting_orders":["DESC","ASC"]}
