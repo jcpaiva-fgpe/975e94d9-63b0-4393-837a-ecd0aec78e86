@@ -1,1 +1,1 @@
-{"id":"a29eaea0-49f1-479c-88f0-646bcfd60adc","name":"[R-POINT] Point for Accepted","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["POINTS","1","${V0}","2"]}]}
+{"id":"a29eaea0-49f1-479c-88f0-646bcfd60adc","name":"[R-POINT] Point for Accepted","triggers":[{"kind":"ACTION","event":"SUBMISSION_ACCEPTED","recurrent":false,"parameters":[null]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["POINTS","1","e8e132f6-db2c-4123-b35d-6ecf6eea5df5","2"]}]}
